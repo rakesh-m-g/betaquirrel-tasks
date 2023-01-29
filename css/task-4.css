@@ -59,4 +59,221 @@ body{
     
     text-decoration: none;
 }
+/* sidebar comleted */
 
+
+#mainbody {
+    height: 712px;
+    width: 84%;
+    background-color: rgb(255, 255, 255);
+    float: right;
+}
+#mainbody a {
+    padding-left: 11px;
+    padding-top: 2px;
+    color: black;
+}
+#mainbody .dashboard2 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(165, 106, 236);
+    
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px
+    
+}
+
+#mainbody .dashboard2 p{
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+
+}
+
+#mainbody .dashboard3 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(243, 78, 30);
+
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px
+}
+#mainbody .dashboard3 p{
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+
+}
+
+#mainbody .dashboard4 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(26, 188, 253);
+
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px
+}
+#mainbody .dashboard4 p{
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(255, 255, 255)
+    ;
+
+}
+
+#mainbody .dashboard1 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(10, 206, 130);
+
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px;
+}
+#mainbody .dashboard1 p{
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+
+}
+
+
+/* ************************************************************ */
+#mainbody .circle1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(165, 106, 236);
+    float: left;
+    margin-left: 47px;
+    margin-right: 18px;
+    border-radius: 50%;
+}
+#mainbody .circle3 {
+    width: 235px;
+    height: 235px;
+    background-color: rgb(255, 114, 97);
+    float: left;
+    margin-left: 55px;
+    border-radius: 50%;
+    border: solid 13px;
+    border-color: rgb(243, 78, 30);
+}
+#mainbody .circle2 {
+    width: 235px;
+    height: 235px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 50px;
+    border-radius: 50%;
+    border: solid 13px;
+    border-color: rgb(26, 188, 253);
+}
+#mainbody .circle4 {
+    width: 20%;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 50px;
+}
+
+/* **************************************************************** */
+#mainbody .circle1 #inn{
+    background-color: rgb(10, 206, 130);
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+}
+#mainbody .circle3 #small {
+    background-color:rgb(165, 106, 236);
+    float: left;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin-top: 83px;
+    margin-left: 80px;
+}
+#mainbody .circle4 #horiz {
+    width: 230px;
+    height: 10px;
+    background-color: rgb(98, 92, 92);
+    margin-top: 245px;
+    margin-left: 20px;
+    
+}
+#mainbody .circle4 .ll1 {
+    width: 10px;
+    height: 200px;
+    background-color: rgb(10, 206, 130);
+    float: left;
+    margin-left: 20px;
+    margin-top: 46px;
+
+}
+#mainbody .circle4 .ll2 {
+    width: 10px;
+    height: 100px;
+    background-color: rgb(243, 78, 30);
+    float: left;
+    margin-left: 20px;
+    margin-top: 145px;
+
+}
+#mainbody .circle4 .ll3 {
+    width: 10px;
+    height: 135px;
+    background-color: rgb(165, 106, 236);
+    float: left;
+    margin-left: 20px;
+    margin-top: 110px;
+
+}
+#mainbody .circle4 .ll4 {
+    width: 10px;
+    height: 70px;
+    background-color: rgb(26, 188, 253);
+    float: left;
+    margin-left: 20px;
+    margin-top: 175px;
+
+}
+#mainbody .circle4 .ll5 {
+    width: 10px;
+    height: 165px;
+    background-color: rgb(98, 92, 92);
+    float: left;
+    margin-left: 20px;
+    margin-top: 81px;
+
+}
+#mainbody .circle4 .ll6 {
+    width: 10px;
+    height: 50px;
+    background-color: rgb(255, 114, 97);
+    float: left;
+    margin-left: 20px;
+    margin-top: 195px;
+
+}
+/* ******************************************* */
+#mainbody .circle1 #inn p{
+    margin-left: 65px;
+    padding-top: 80px;
+}
+#mainbody .circle2 p{
+    text-align: center;
+    margin-top: 110px;
+    margin-right:20px ;
+
+}
+#mainbody .circle3 p{
+   color: aliceblue;
+   text-align: center;
+   margin-top: 25px;
+
+}
