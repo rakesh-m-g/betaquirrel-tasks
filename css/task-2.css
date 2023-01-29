@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(48, 27, 26);
+    margin: auto;
+
+}
+#navbar {
+    background-color: rgb(83, 49, 97);
+    height: 75px;
+    margin-bottom: 9px;
+    
+}
+.right {
+    float: right;
+    display: inline;
+    margin-top: 20px;
+}
+.left {
+    height: 50px;
+    float: left;
+}
+.left img {
+    height: 50px;
+    float: left;
+    padding-top: 9px;
+}
+.left h1{
+    float: left;
+    color: rgb(255, 255, 255);
+}
+.right a {
+    padding-top: 50px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+/* nav bar end */
+
