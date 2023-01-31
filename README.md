@@ -42,4 +42,4 @@ Betasquirrel assignments
 | 4. `git commit` | Commit changes to git | `git commit -m "internal commit"` |
 | 5. `git push` | Push your local commits to remote repo | `git push origin main` |
 
-- - - - - - - - - - - -  # ~~END~~
+ # ~~END~~
