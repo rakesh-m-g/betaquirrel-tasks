@@ -6,7 +6,7 @@ Betasquirrel assignments
 | ---------------------------- | ------------ |
 | ![task 1](images/task1-req.png) | ![Task 1](images/task-1.png) |
 ### **Second task**
-|                              |              |
+| Requrements                  | Output       |
 | ---------------------------- | ------------ |
 | ![task 2](images/task3-req.png) | ![Task 2](images/task-2.png) | 
   ### **Task 3**
@@ -58,5 +58,9 @@ Betasquirrel assignments
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
 
+ \\
 
+### **Task 6**
+
+ - 👉 [Click here]( https://rakesh-m-g.github.io/betaquirrel-tasks/)
  # ~~END~~

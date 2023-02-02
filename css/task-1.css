@@ -6,6 +6,7 @@ body{
     background-color: rgb(82, 1, 82);
     height: 80px;
     margin-bottom: 8.9999px;
+    overflow: hidden;
 }
 .left {
     float: left;
@@ -34,6 +35,7 @@ body{
     height: 300px;
     border: 1px solid #e4e1e1;
     margin-bottom: 8.9999px;
+    overflow: hidden;
 }
 .boxes {
     background-color: #e4e1e1;
@@ -41,6 +43,7 @@ body{
     border: 1px solid black;
     width: 32%;
     float: left;
+    overflow: hidden;
 
 }
 .second {
