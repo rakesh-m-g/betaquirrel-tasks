@@ -42,4 +42,18 @@ Betasquirrel assignments
 | 4. `git commit` | Commit changes to git | `git commit -m "internal commit"` |
 | 5. `git push` | Push your local commits to remote repo | `git push origin main` |
 
+
+### Task 5
+
+- [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
+- [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+- [HTML Table Borders](https://www.w3schools.com/html/html_table_borders.asp)
+- [HTML Table Sizes](https://www.w3schools.com/html/html_table_sizes.asp)
+- [HTML Table Headers](https://www.w3schools.com/html/html_table_headers.asp)
+- [HTML Table Padding & Spacing](https://www.w3schools.com/html/html_table_padding_spacing.asp)
+- [HTML Table Colspan & Rowspan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
+- [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
+- [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
+
+
  # ~~END~~
