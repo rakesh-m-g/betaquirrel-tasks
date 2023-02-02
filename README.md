@@ -2,12 +2,13 @@
 
 Betasquirrel assignments
 
-| Output |
-| ------ |
-### **First task**
- ![Task 1](images/task-1.png) 
+| Requrements                  | Output       |
+| ---------------------------- | ------------ |
+| ![task 1](images/task1-req.png) | ![Task 1](images/task-1.png) |
 ### **Second task**
- ![Task 2](images/task-2.png) 
+|                              |              |
+| ---------------------------- | ------------ |
+| ![task 2](images/task3-req.png) | ![Task 2](images/task-2.png) | 
   ### **Task 3**
 - [HTML Basic](https://www.w3schools.com/html/default.asp)
 - [HTML Elements](https://www.w3schools.com/html/html_basic.asp)
@@ -24,7 +25,9 @@ Betasquirrel assignments
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 - [HTML Table Borders](https://www.w3schools.com/html/html_table_borders.asp)
 ### **Fourth task**
- ![Task 4](images/task-4.png) 
+| Requrements                  | Output       |
+| ---------------------------- | ------------ |
+| ![task 4](images/task4-req.png) | ![Task 4](images/task-4.png) | 
 
  ### **Linux Commands**
 | *Commands* |                        | *Example*               |
