@@ -41,7 +41,7 @@ body{
 }
 #box #text{
     background-color: rgb(211, 209, 217);
-    padding: 30px;
+    /* padding: 30px; */
     float: left;
     margin: 65px;
 
