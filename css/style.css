@@ -6,6 +6,7 @@ body {
   height: 100vh;
   background-color: rgba(88, 86, 233, 0.786);
   border-radius: 1%;
+  overflow: hidden;
 }
 
 #body #box {
