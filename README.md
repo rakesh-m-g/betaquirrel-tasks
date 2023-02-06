@@ -4,11 +4,11 @@ Betasquirrel assignments
 
 | Requrements                  | Output       |
 | ---------------------------- | ------------ |
-| ![task 1](images/task1-req.png) | ![Task 1](images/task-1.png) |
+| ![task 1](images/task-1req.png) | ![Task 1](images/task-1.png) |
 ### **Second task**
 | Requrements                  | Output       |
 | ---------------------------- | ------------ |
-| ![task 2](images/task3-req.png) | ![Task 2](images/task-2.png) | 
+| ![task 2](images/task2-req.png) | ![Task 2](images/task-2.png) | 
   ### **Task 3**
 - [HTML Basic](https://www.w3schools.com/html/default.asp)
 - [HTML Elements](https://www.w3schools.com/html/html_basic.asp)
