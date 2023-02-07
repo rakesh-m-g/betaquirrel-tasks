@@ -1,103 +1,60 @@
-body{
-    background-color: rgb(51, 33, 33);
-    margin: auto;
+body {
+  background-color: rgb(98, 178, 102);
+  margin: auto;
+  width: 100%;
 }
 #nbar {
-    background-color: rgb(82, 1, 82);
-    height: 80px;
-    margin-bottom: 8.9999px;
-    /* overflow: hidden; */
+  background-color: rgb(82, 1, 82);
+  height: 80px;
+  width: auto;
+  margin-bottom: 8.9999px;
+  padding: 6px;
 }
 .left {
-    float: left;
+  float: left;
 }
 .right {
-    float: right;
-    text-align: center;
-    margin-top: 20px;
+  float: right;
+  text-align: center;
+  margin-top: 20px;
 }
 .left img {
-    height: 60px;
-    float: left;
+  height: 60px;
+  float: left;
 }
 .left h2 {
-    color: #f8f8f8;
-    float: left;
+  color: #f8f8f8;
+  float: left;
 }
 .right a {
-    color: #f8f8f8;
-    text-decoration: none;
+  color: #f8f8f8;
+  text-decoration: none;
 }
 /* main body part */
-
 #main-co {
-    background-color: #e4e1e1;
-    height: 300px;
-    border: 1px solid #e4e1e1;
-    margin-bottom: 8.9999px;
-    overflow: hidden;
+  background-color: #c35959;
+  height: 300px;
+  margin-bottom: 8.9999px;
+  overflow: hidden;
+  padding: 6px;
 }
-.boxes {
-    background-color: #e4e1e1;
-    height: 300px;
-    width: calc(31.9vw);
-    float: left;
-    overflow: hidden;
-
+.boxes1,
+.boxes2,
+.boxes3 {
+  background-color: #e4e1e1;
+  height: 300px;
+  width: 32.65%;
+  float: right;
+  padding: 5px;
 }
-.second {
-    margin-left: 8.9999px;
+.boxes2 {
+  margin: 0px 9px 9px;
 }
-.third {
-    margin-left: 8.9999px;
-}
-div {
-    padding: 6px;
-}
-
-/* mobile view */
-
-@media only screen and (max-width: 600px) {
-
-
-    #nbar {
-        height: 40px;
-    }
-    .left img {
-        height: 37px;
-    }
-    .left h2 {
-        color: #f8f8f8;
-        float: left;
-        font-size: medium;
-    }
-    .right {
-        float: right;
-        text-align: center;
-        margin-top: 12px;
-        
-    }
-    .right a {
-        color: #f8f8f8;
-        text-decoration: none;
-        font-size: small;
-    }
-    #main-co {
-        background-color: #e4e1e1;
-        /* height: 300px; */
-        border: 1px solid #e4e1e1;
-        margin-bottom: 8.9999px;
-        /* overflow: hidden; */
-    }
-    .boxes {
-        background-color: #e4e1e1;
-        height: 300px;
-        width: calc(31.9vw);
-        float: left;
-        overflow: hidden;
-    
-    
-    
-    
-
+@media screen and (max-width: 1508px) {
+  .boxes1,
+  .boxes2,
+  .boxes3 {
+    background-color: #710f0f;
+    width: 32.27%;
+  }
 }
