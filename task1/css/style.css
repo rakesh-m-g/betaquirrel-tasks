@@ -1,13 +1,13 @@
 body {
-  background-color: rgb(98, 178, 102);
+  background-color: rgb(51, 33, 33);
   margin: auto;
   width: 100%;
 }
 #nbar {
-  background-color: rgb(82, 1, 82);
+  background-color: rgb(84, 53, 97);
   height: 80px;
   width: auto;
-  margin-bottom: 8.9999px;
+  margin-bottom: 6.9999px;
   padding: 6px;
 }
 .left {
@@ -16,45 +16,97 @@ body {
 .right {
   float: right;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 32px;
 }
 .left img {
   height: 60px;
   float: left;
+  margin-top: 15px;
 }
 .left h2 {
-  color: #f8f8f8;
+  color: rgb(209, 217, 232);
   float: left;
+  margin-top: 36px;
 }
 .right a {
-  color: #f8f8f8;
+  color: rgb(209, 217, 232);
   text-decoration: none;
+  padding-right: 20px;
 }
 /* main body part */
 #main-co {
-  background-color: #c35959;
+  background-color: rgb(209, 217, 232);
   height: 300px;
-  margin-bottom: 8.9999px;
+  margin-bottom: 6.9999px;
   overflow: hidden;
   padding: 6px;
 }
 .boxes1,
 .boxes2,
 .boxes3 {
-  background-color: #e4e1e1;
+  background-color: rgb(209, 217, 232);
   height: 300px;
-  width: 32.2%;
-  float: right;
-  padding: 5px;
+  float: left;
+  width: 31.9%;
+  padding: 6px;
 }
 .boxes2 {
-  margin: 0px 9px 9px;
+  margin: 0% 0.7% 0.7%;
 }
-@media screen and (max-width: 1508px) {
+.boxes1 {
+  float: left;
+}
+.boxes3 {
+  float: right;
+}
+@media screen and (max-width: 1279px) {
+  .boxes1 {
+    background-color: rgb(139, 73, 73);
+  }
   .boxes1,
-  .boxes2,
+  .boxes2 {
+    width: 48vw;
+  }
+  .boxes2 {
+    float: right;
+  }
   .boxes3 {
-    background-color: #710f0f;
-    width: 32.27%;
+    width: 100vw;
+  }
+}
+@media screen and (max-width: 915px) {
+  #nbar {
+    height: 50px;
+    margin-bottom: 6.9999px;
+    padding: 6px;
+  }
+  .right {
+    margin-top: 22px;
+  }
+  .left img {
+    height: 40px;
+    margin-top: 5px;
+  }
+  .left h2 {
+    margin-top: 20px;
+    font-size: large;
+  }
+  .right a {
+    padding-right: 5px;
+    font-size: small;
+  }
+
+  .boxes1 {
+    background-color: rgb(139, 73, 73);
+  }
+  .boxes1,
+  .boxes2 {
+    width: 100vw;
+  }
+  .boxes2 {
+    float: right;
+  }
+  .boxes3 {
+    width: 100vw;
   }
 }
