@@ -18,7 +18,6 @@ body {
   display: flex;
   justify-content: center;
 }
-/* ************************************ */
 #box {
   overflow: hidden;
 }
