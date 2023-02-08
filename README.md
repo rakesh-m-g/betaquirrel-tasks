@@ -2,14 +2,18 @@
 
 Betasquirrel assignments
 
-| Requrements                  | Output       |
-| ---------------------------- | ------------ |
+| Requrements                     | Output                       |
+| ------------------------------- | ---------------------------- |
 | ![task 1](images/task-1req.png) | ![Task 1](images/task-1.png) |
+
 ### **Second task**
-| Requrements                  | Output       |
-| ---------------------------- | ------------ |
-| ![task 2](images/task2-req.png) | ![Task 2](images/task-2.png) | 
-  ### **Task 3**
+
+| Requrements                     | Output                       |
+| ------------------------------- | ---------------------------- |
+| ![task 2](images/task2-req.png) | ![Task 2](images/task-2.png) |
+
+### **Task 3**
+
 - [HTML Basic](https://www.w3schools.com/html/default.asp)
 - [HTML Elements](https://www.w3schools.com/html/html_basic.asp)
 - [html Attributes](https://www.w3schools.com/html/html_attributes.asp)
@@ -24,27 +28,33 @@ Betasquirrel assignments
 - [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 - [HTML Table Borders](https://www.w3schools.com/html/html_table_borders.asp)
+
 ### **Fourth task**
-| Requrements                  | Output       |
-| ---------------------------- | ------------ |
-| ![task 4](images/task4-req.png) | ![Task 4](images/task-4.png) | 
 
- ### **Linux Commands**
-| *Commands* |                        | *Example*               |
-| -------- | ---------------------- | --------------------- |
-| `cd`     | Change currentdirectory | `cd Desktop`, `cd ..` |
-| `ls`     | List contents of a directory | `ls -a`          |
-| `pwd`    | Display current working directory | `pwd`       |
-| `cat`    | Display contentsof a file         | `cat README.md` |
+| Requrements                     | Output                       |
+| ------------------------------- | ---------------------------- |
+| ![task 4](images/task4-req.png) | ![Task 4](images/task-4.png) |
+
+### **Linux Commands**
+
+| _Commands_ |                                   | _Example_             |
+| ---------- | --------------------------------- | --------------------- |
+| `cd`       | Change currentdirectory           | `cd Desktop`, `cd ..` |
+| `ls`       | List contents of a directory      | `ls -a`               |
+| `pwd`      | Display current working directory | `pwd`                 |
+| `cat`      | Display contentsof a file         | `cat README.md`       |
+| `mkdir`    | create new directories            | `mkdir newFolder`     |
+
 ### **Git Commands**
-| *Commands* |                                   | *Example* |
-| -------- | --------------------------------- | ------- |
-| 1. `git config` | Configure git user         | `git config --global user.name "username"` |
-| 2. `git clone` | Clone a remorte git repo to your local | `git clone https://github.com/rakesh-m-g/betaquirrel-tasks.git` |
-| 3. `git add` | Add your file changes to git  | `git add .` |
-| 4. `git commit` | Commit changes to git | `git commit -m "internal commit"` |
-| 5. `git push` | Push your local commits to remote repo | `git push origin main` |
 
+| _Commands_      |                                                     | _Example_                                                       |
+| --------------- | --------------------------------------------------- | --------------------------------------------------------------- |
+| 1. `git config` | Configure git user                                  | `git config --global user.name "username"`                      |
+| 2. `git clone`  | Clone a remorte git repo to your local              | `git clone https://github.com/rakesh-m-g/betaquirrel-tasks.git` |
+| 3. `git add`    | Add your file changes to git                        | `git add .`                                                     |
+| 4. `git commit` | Commit changes to git                               | `git commit -m "internal commit"`                               |
+| 5. `git push`   | Push your local commits to remote repo              | `git push origin main`                                          |
+| 6. `git pull`   | fetch and download content from a remote repository | git pull <remote>                                               |
 
 ### Task 5
 
@@ -58,9 +68,10 @@ Betasquirrel assignments
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
 
- \\
+\\
 
 ### **Task 6**
 
- - 👉 [Click here]( https://rakesh-m-g.github.io/betaquirrel-tasks/)
- # ~~END~~
+- 👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)
+
+# ~~END~~
