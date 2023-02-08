@@ -56,7 +56,6 @@ body {
   text-decoration: none;
 }
 /* sidebar comleted */
-
 #mainbody {
   height: 712px;
   width: 84%;
@@ -68,95 +67,60 @@ body {
   padding-top: 2px;
   color: black;
 }
-#mainbody .dashboard2 {
-  width: 24%;
-  height: 220px;
-  background-color: rgb(165, 106, 236);
-
-  float: left;
-  margin-left: 10px;
-  margin-bottom: 55px;
-}
-
-#mainbody .dashboard2 p {
-  text-align: center;
-  margin-top: 60px;
-  color: aliceblue;
-}
-
-#mainbody .dashboard3 {
-  width: 24%;
-  height: 220px;
-  background-color: rgb(243, 78, 30);
-
-  float: left;
-  margin-left: 10px;
-  margin-bottom: 55px;
-}
-#mainbody .dashboard3 p {
-  text-align: center;
-  margin-top: 60px;
-  color: aliceblue;
-}
-
-#mainbody .dashboard4 {
-  width: 24%;
-  height: 220px;
-  background-color: rgb(26, 188, 253);
-
-  float: left;
-  margin-left: 10px;
-  margin-bottom: 55px;
-}
-#mainbody .dashboard4 p {
-  text-align: center;
-  margin-top: 60px;
-  color: rgb(255, 255, 255);
-}
-
+#mainbody .dashboard2,
+#mainbody .dashboard3,
+#mainbody .dashboard4,
 #mainbody .dashboard1 {
   width: 24%;
   height: 220px;
-  background-color: rgb(10, 206, 130);
-
+  background-color: rgb(165, 106, 236);
   float: left;
   margin-left: 10px;
   margin-bottom: 55px;
 }
+#mainbody .dashboard2 p,
+#mainbody .dashboard3 p,
+#mainbody .dashboard4 p,
 #mainbody .dashboard1 p {
   text-align: center;
   margin-top: 60px;
   color: aliceblue;
 }
-
+#mainbody .dashboard3 {
+  background-color: rgb(243, 78, 30);
+}
+#mainbody .dashboard4 {
+  background-color: rgb(26, 188, 253);
+}
+#mainbody .dashboard1 {
+  background-color: rgb(10, 206, 130);
+}
 /* ************************************************************ */
+#mainbody .circle3,
+#mainbody .circle2 {
+  width: 235px;
+  height: 235px;
+  border-radius: 50%;
+  float: left;
+  border: solid 13px;
+}
+
 #mainbody .circle1 {
   width: 250px;
   height: 250px;
   background-color: rgb(165, 106, 236);
   float: left;
-  margin-left: 47px;
-  margin-right: 18px;
+  margin-left: 1vw;
   border-radius: 50%;
 }
 #mainbody .circle3 {
-  width: 235px;
-  height: 235px;
   background-color: rgb(255, 114, 97);
-  float: left;
-  margin-left: 55px;
-  border-radius: 50%;
-  border: solid 13px;
+  margin-left: 1.5vw;
   border-color: rgb(243, 78, 30);
 }
 #mainbody .circle2 {
-  width: 235px;
-  height: 235px;
   background-color: rgb(255, 255, 255);
-  float: left;
-  margin-left: 50px;
-  border-radius: 50%;
-  border: solid 13px;
+  margin-left: 1.5vw;
   border-color: rgb(26, 188, 253);
 }
 #mainbody .circle4 {
@@ -164,7 +128,7 @@ body {
   height: 250px;
   background-color: rgb(255, 255, 255);
   float: left;
-  margin-left: 50px;
+  margin-left: 1.5vw;
 }
 
 /* **************************************************************** */

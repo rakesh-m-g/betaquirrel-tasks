@@ -84,36 +84,47 @@ body {
     margin-top: 5px;
   }
   .left h2 {
-    margin-top: 20px;
+    margin-top: 30px;
     font-size: large;
   }
   .right a {
-    font-size: small;
-    padding-right: 35px;
+    font-size: x-small;
+    padding-right: 10px;
   }
 
   #mainco {
-    background-color: rgb(19, 30, 56);
-    height: 280px;
-    margin: 27px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background-color: rgb(207, 215, 233);
+    height: 150vw;
+    width: 96vw;
+    margin: 8px;
   }
-  .first f {
+  .first {
     background-color: rgb(133, 223, 127);
-    height: 200px;
-    width: 100vw;
+    height: 60vw;
+    width: 86vw;
     float: left;
-    margin: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
     padding: 9px;
+    overflow: hidden;
   }
-  .second s {
+  .second {
     background-color: rgb(133, 223, 127);
-    height: 200px;
-    width: 100vw;
+    height: 60vw;
+    width: 86vw;
     float: left;
-    margin: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
     padding: 9px;
+    overflow: hidden;
+  }
+  #third {
+    background-color: rgb(185, 65, 66);
+    height: 200px;
+    height: 340px;
+    margin: 10px;
+    padding-top: 1px;
   }
 }
