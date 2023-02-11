@@ -1,6 +1,12 @@
 # betaquirrel-tasks
 
-Betasquirrel assignments
+## Betasquirrel assignments
+
+👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)
+
+<img src="images/qrcode_rakesh-m-g.github.io.png" width="100" height="100"> 👈😀OR
+
+<br>
 
 | Requrements                     | Output                       |
 | ------------------------------- | ---------------------------- |
@@ -54,7 +60,7 @@ Betasquirrel assignments
 | 3. `git add`    | Add your file changes to git                        | `git add .`                                                     |
 | 4. `git commit` | Commit changes to git                               | `git commit -m "internal commit"`                               |
 | 5. `git push`   | Push your local commits to remote repo              | `git push origin main`                                          |
-| 6. `git pull`   | fetch and download content from a remote repository | `git pull <remote> `                                              |
+| 6. `git pull`   | fetch and download content from a remote repository | `git pull <remote> `                                            |
 
 ### Task 5
 
