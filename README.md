@@ -2,9 +2,15 @@
 
 ## Betasquirrel assignments
 
-👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)
+<img src="images/stack-overflow logo.png" height="50px" > [Click here 📙](https://stackoverflow.com/questions/39553905/how-to-adjust-div-height-size-depending-on-text-length)
 
-<img src="images/qrcode_rakesh-m-g.github.io.png" width="100" height="100"> 👈😀OR
+<br>
+
+<img src="images/linkedin.png" height="50px" > [Click here 📙](https://www.linkedin.com/in/rakesh-mg-615168213/)
+
+<br>
+
+<img src="images/qrcode_rakesh-m-g.github.io.png" width="100" height="100"> Task page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/) 👈
 
 <br>
 
