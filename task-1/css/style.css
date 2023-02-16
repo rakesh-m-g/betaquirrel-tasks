@@ -1,32 +1,30 @@
 body {
   background-color: rgb(51, 33, 33);
   margin: auto;
-  width: 100%;
 }
 #nbar {
   background-color: rgb(84, 53, 97);
-  height: 80px;
-  width: auto;
-  margin-bottom: 6.9999px;
-  padding: 6px;
+  width: calc(100vw);
+  justify-content: space-between;
+  padding: 1vh 1.2vw;
+  display: flex;
+  padding: 1vh 0;
 }
 .left {
-  float: left;
+  display: flex;
+  height: 7vh;
 }
 .right {
-  float: right;
-  text-align: center;
-  margin-top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .left img {
-  height: 60px;
-  float: left;
-  margin-top: 15px;
+  height: 40px;
+  margin: 1vh;
 }
 .left h2 {
-  color: rgb(209, 217, 232);
-  float: left;
-  margin-top: 36px;
+  color: rgb(255, 255, 255);
 }
 .right a {
   color: rgb(209, 217, 232);
@@ -36,77 +34,46 @@ body {
 /* main body part */
 #main-co {
   background-color: rgb(209, 217, 232);
-  height: 300px;
-  margin-bottom: 6.9999px;
-  overflow: hidden;
-  padding: 6px;
+  padding: 1em 1em;
 }
 .boxes1,
 .boxes2,
 .boxes3 {
   background-color: rgb(209, 217, 232);
-  height: 300px;
-  float: left;
-  width: 31.9%;
-  padding: 6px;
-  overflow: hidden;
+  margin: 0 0.6em;
+  padding: 1em;
 }
-.boxes2 {
-  margin: 0% 0.7% 0.7%;
+#bottam_div {
+  display: flex;
+  padding: 0.855em 0;
 }
-.boxes1 {
-  float: left;
+#main_body {
+  padding: 2vh 0.5vw;
 }
-.boxes3 {
-  float: right;
-}
-@media screen and (max-width: 1279px) {
-  .boxes1 {
-    background-color: rgb(139, 73, 73);
-  }
+@media screen and (max-width: 900px) and (min-width: 651px) {
   .boxes1,
   .boxes2 {
-    width: 48vw;
-  }
-  .boxes2 {
-    float: right;
-  }
-  .boxes3 {
-    width: 100vw;
-  }
-}
-@media screen and (max-width: 915px) {
-  #nbar {
-    height: 50px;
-    margin-bottom: 6.9999px;
-    padding: 6px;
-  }
-  .right {
-    margin-top: 22px;
-  }
-  .left img {
-    height: 40px;
-    margin-top: 5px;
-  }
-  .left h2 {
-    margin-top: 20px;
-    font-size: large;
-  }
-  .right a {
-    padding-right: 5px;
-    font-size: small;
+    background-color: blanchedalmond;
+    width: calc((100vw - 7vh) / 2);
+    margin: 10px 0 10px;
   }
   .boxes1 {
-    background-color: rgb(139, 73, 73);
-  }
-  .boxes1,
-  .boxes2 {
-    width: 100vw;
-  }
-  .boxes2 {
     float: right;
   }
+  /* .boxes3 {
+    margin-top: 0 0 0;
+  } */
+  #bottam_div {
+    display: contents;
+  }
+}
+@media screen and (max-width: 650px) {
+  #bottam_div {
+    display: contents;
+  }
+  .boxes1,
+  .boxes2,
   .boxes3 {
-    width: 100vw;
+    margin: 3px 0;
   }
 }

@@ -2,7 +2,7 @@
 
 ## Betasquirrel assignments
 
-<img src="images/stack-overflow logo.png" height="50px" > [Click here 📙](https://stackoverflow.com/questions/39553905/how-to-adjust-div-height-size-depending-on-text-length)
+<img src="images/stack-overflow logo.png" height="50px" > [Click here 📙](https://stackoverflow.com/users/21194129/dote)
 
 <br>
 
