@@ -50,7 +50,6 @@ body {
   color: green;
   padding-top: 8px;
   padding-left: 20px;
-
   text-decoration: none;
 }
 /* sidebar comleted */
@@ -69,20 +68,12 @@ body {
 #mainbody .dashboard3,
 #mainbody .dashboard4,
 #mainbody .dashboard1 {
-  width: 24%;
+  width: 300px;
   height: 220px;
   background-color: rgb(165, 106, 236);
-  float: left;
-  margin-left: 10px;
-  margin-bottom: 55px;
-}
-#mainbody .dashboard2 p,
-#mainbody .dashboard3 p,
-#mainbody .dashboard4 p,
-#mainbody .dashboard1 p {
-  text-align: center;
-  margin-top: 60px;
-  color: aliceblue;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 #mainbody .dashboard3 {
   background-color: rgb(243, 78, 30);
@@ -98,53 +89,54 @@ body {
   width: 235px;
   height: 235px;
   border-radius: 50%;
-  float: left;
   border: solid 13px;
+  margin: 100px 20px 20px;
 }
 #mainbody .circle1 {
   width: 250px;
   height: 250px;
   background-color: rgb(165, 106, 236);
-  float: left;
-  margin-left: 1vw;
   border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px 20px 20px;
 }
 #mainbody .circle3 {
   background-color: rgb(255, 114, 97);
-  margin-left: 1.5vw;
   border-color: rgb(243, 78, 30);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 #mainbody .circle2 {
   background-color: rgb(255, 255, 255);
-  margin-left: 1.5vw;
   border-color: rgb(26, 188, 253);
 }
 #mainbody .circle4 {
-  width: 20%;
+  width: 250px;
   height: 250px;
   background-color: rgb(255, 255, 255);
   float: left;
-  margin-left: 1.5vw;
+  margin: 100px 25px 25px;
 }
 #mainbody .circle1 #inn {
   background-color: rgb(10, 206, 130);
   border-radius: 50%;
   height: 170px;
   width: 170px;
-  margin-top: 40px;
-  margin-left: 40px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 #mainbody .circle3 #small {
   background-color: rgb(165, 106, 236);
-  float: left;
   width: 75px;
   height: 75px;
   border-radius: 50%;
-  margin-top: 83px;
-  margin-left: 80px;
 }
 #mainbody .circle4 #horiz {
-  width: 230px;
+  width: 215px;
   height: 10px;
   background-color: rgb(98, 92, 92);
   margin-top: 245px;
@@ -198,10 +190,6 @@ body {
   margin-left: 20px;
   margin-top: 195px;
 }
-#mainbody .circle1 #inn p {
-  margin-left: 65px;
-  padding-top: 80px;
-}
 #mainbody .circle2 p {
   text-align: center;
   margin-top: 110px;
@@ -211,4 +199,20 @@ body {
   color: aliceblue;
   text-align: center;
   margin-top: 25px;
+}
+.one,
+.two,
+.four,
+.three {
+  background-color: rgb(255, 255, 255);
+  width: 300px;
+  height: 650px;
+  float: left;
+  margin-left: 12px;
+}
+.one,
+.two,
+.four,
+.three {
+  align-self: center;
 }
