@@ -38,7 +38,7 @@ body {
   background-color: rgb(209, 217, 232);
   height: 300px;
   margin-bottom: 6.9999px;
-  /* overflow: hidden; */
+  overflow: hidden;
   padding: 6px;
 }
 .boxes1,
@@ -49,6 +49,7 @@ body {
   float: left;
   width: 31.9%;
   padding: 6px;
+  overflow: hidden;
 }
 .boxes2 {
   margin: 0% 0.7% 0.7%;
