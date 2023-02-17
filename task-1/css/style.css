@@ -53,18 +53,17 @@ body {
 @media screen and (max-width: 900px) and (min-width: 651px) {
   .boxes1,
   .boxes2 {
-    background-color: blanchedalmond;
     width: calc((100vw - 7vh) / 2);
     margin: 10px 0 10px;
   }
   .boxes1 {
     float: right;
   }
-  /* .boxes3 {
-    margin-top: 0 0 0;
-  } */
   #bottam_div {
     display: contents;
+  }
+  .boxes3 {
+    margin: 0px;
   }
 }
 @media screen and (max-width: 650px) {

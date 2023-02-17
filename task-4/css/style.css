@@ -35,8 +35,8 @@ body {
 /* nav bar completed */
 #sidebar {
   width: 16%;
-  height: 710px;
-  overflow: hidden;
+  height: calc((100vh - 49px));
+  /* overflow: hidden; */
   margin-top: 2px;
   background-color: rgb(98, 92, 92);
   float: left;
@@ -47,7 +47,7 @@ body {
   color: rgb(255, 255, 255);
 }
 #sidebar h3 a:hover {
-  color: green;
+  color: rgb(0, 255, 0);
   padding-top: 8px;
   padding-left: 20px;
   text-decoration: none;
@@ -215,4 +215,12 @@ body {
 .four,
 .three {
   align-self: center;
+}
+@media screen and (max-width: 2800px) and (min-width: 1900px) {
+  .one,
+  .two,
+  .four,
+  .three {
+    margin: calc(100vw - 97.5vw);
+  }
 }
