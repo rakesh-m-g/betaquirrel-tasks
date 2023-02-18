@@ -1,0 +1,88 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+  margin: auto;
+}
+#navigationBar {
+  /* background-color: rgb(182, 127, 127); */
+  height: calc(100vh - 89vh);
+  border-bottom: solid 2px;
+  border-color: rgb(165, 165, 165);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  justify-content: space-between;
+}
+#logoDiv {
+  /* background-color: rgb(237, 184, 116); */
+  /* padding: 0.6em; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+  color: rgb(120, 120, 120);
+  font-style: normal;
+}
+#logoDiv img {
+  padding: 0.4em 0.4em 0.4em 2em;
+  height: calc(100vh - 92vh);
+}
+#profileDiv {
+  /* background-color: rgb(179, 106, 11); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+}
+#profileDiv img {
+  height: 50px;
+  border-radius: 50%;
+}
+#sideBar {
+  /* background-color: aqua; */
+  height: calc(100vh - 11vh);
+  width: calc(100vw - 84vw);
+  /* display: block; */
+  padding: 40px 25px;
+  border-right: solid 2px;
+  border-color: rgb(165, 165, 165);
+  margin: 0px;
+  float: left;
+
+  /* text-align: center; */
+}
+P {
+  color: rgb(120, 120, 120);
+  /* padding-bottom: 4em; */
+  font-size: large;
+  padding-left: 20px;
+}
+#body1 {
+  /* background-color: rgba(128, 209, 183, 0.71); */
+  height: calc(100vh - 11vh);
+  width: calc(100vw - 20.9%);
+  /* float: right; */
+  display: flex;
+}
+#body1 #bodyTop {
+  /* background-color: aqua; */
+  height: calc(100vh - 86vh);
+  width: calc(100vw - 20.5vw);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  padding: 0 4em 0 3em;
+
+  /* align-items: center; */
+}
+a {
+  padding: 1em;
+  background-color: blueviolet;
+}
+/* #link,
+#label {
+  background-color: antiquewhite;
+  width: 200px;
+  height: 66px;
+} */
