@@ -1,5 +1,5 @@
 body {
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 9%, 90%);
   margin: auto;
 }
 #navigationBar {
@@ -43,39 +43,29 @@ body {
   margin: 0px;
   float: left;
 }
-P {
-  color: rgb(120, 120, 120);
-  font-size: medium;
-  padding-left: 20px;
-}
-#bodyTop {
-  height: calc(100vh - 91vh);
+#maindiv1 {
+  background-color: rgb(8, 61, 61);
+  height: calc(100vh - 11.2vh);
+  /* width: calc(100vw - 16vw); */
+  /* float: right; */
   display: flex;
-  align-items: center;
-  justify-content: center;
-  justify-content: space-between;
-  padding: 0 4em 0 3em;
 }
-a {
-  padding: 0.5em 1.5em 0.5em 1.5em;
-  color: hsl(159, 62%, 94%);
-  background-color: hsl(157, 50%, 48%);
+#maindiv2 {
+  background-color: yellowgreen;
+  width: calc(100vw - 26.5vw);
+  height: calc(100vh - 11.2vh);
+  padding: 3em;
 }
-#table {
-  display: flex;
-  align-items: start;
-  justify-content: center;
-  height: calc(100vh - 25.2vh);
+table {
+  width: 100%;
 }
-#table table,
-td,
-th {
-  border: 1px solid;
-  border-color: hsl(0, 0%, 85%);
-  border-collapse: collapse;
-  text-align: center;
-  color: rgb(120, 120, 120);
+td {
   table-layout: fixed;
-  width: 90%;
-  padding: 1em 2em 1em 2em;
+  width: 40%;
+  text-align: start;
+  border: none;
+  padding: 2em;
+}
+label {
+  margin-right: 4em;
 }
