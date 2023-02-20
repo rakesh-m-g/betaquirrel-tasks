@@ -44,28 +44,38 @@ body {
   float: left;
 }
 #maindiv1 {
-  background-color: rgb(8, 61, 61);
   height: calc(100vh - 11.2vh);
   /* width: calc(100vw - 16vw); */
   /* float: right; */
   display: flex;
 }
 #maindiv2 {
-  background-color: yellowgreen;
   width: calc(100vw - 26.5vw);
   height: calc(100vh - 11.2vh);
-  padding: 3em;
+  /* padding: 3em; */
+  margin: 40px 0 0 60px;
+  justify-content: space-between;
 }
-table {
-  width: 100%;
+.form {
+  float: left;
+  width: calc(50%);
+  margin-bottom: 2px;
 }
-td {
-  table-layout: fixed;
-  width: 40%;
-  text-align: start;
-  border: none;
-  padding: 2em;
+.form1 {
+  float: right;
+  width: calc(50%);
+  margin-bottom: 2px;
 }
-label {
-  margin-right: 4em;
+.form {
 }
+input {
+  padding: 0.7em 6em;
+}
+select {
+  padding: 0.7em 6.5em;
+}
+span {
+  color: hsl(0, 73%, 45%);
+}
+/* #checkbox {
+} */
