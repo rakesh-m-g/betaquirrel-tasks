@@ -1,9 +1,9 @@
 body {
-  background-color: hsl(0, 9%, 90%);
   margin: auto;
 }
 #navigationBar {
   height: calc(100vh - 89vh);
+  width: 100vw;
   border-bottom: solid 2px;
   border-color: rgb(165, 165, 165);
   display: flex;
@@ -45,15 +45,12 @@ body {
 }
 #maindiv1 {
   height: calc(100vh - 11.2vh);
-  /* width: calc(100vw - 16vw); */
-  /* float: right; */
   display: flex;
 }
 #maindiv2 {
   width: calc(100vw - 26.5vw);
   height: calc(100vh - 11.2vh);
-  /* padding: 3em; */
-  margin: 40px 0 0 60px;
+  margin: 30px 0 0 60px;
   justify-content: space-between;
 }
 .form {
@@ -66,16 +63,64 @@ body {
   width: calc(50%);
   margin-bottom: 2px;
 }
-.form {
+.form3 {
+  display: block;
+}
+#checkbox {
+  border: solid 2px;
+  border-color: hsl(0, 2%, 81%);
+
+  padding-top: 1.5em;
 }
 input {
   padding: 0.7em 6em;
+  border: solid 2px;
+  border-color: hsl(0, 2%, 81%);
 }
 select {
-  padding: 0.7em 6.5em;
+  border: solid 2px;
+  border-color: hsl(0, 2%, 81%);
+  color: hsl(0, 2%, 81%);
+  padding: 0.7em 5em;
 }
 span {
   color: hsl(0, 73%, 45%);
 }
-/* #checkbox {
-} */
+#gg {
+  padding-top: 1.5em;
+}
+.checkbox label {
+  padding: 0 4em 0 1em;
+}
+#submitp {
+  float: right;
+  width: calc(100vw - 65vw);
+  display: flex;
+}
+#submit,
+#reset {
+  padding: 1.5em 6em 1.5em 6em;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  color: azure;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#submit {
+  background-color: hsl(157, 52%, 48%);
+  margin-left: 1em;
+}
+#reset {
+  background-color: hsl(6, 100%, 69%);
+}
+textarea {
+  resize: none;
+  border: solid 2px;
+  border-color: hsl(0, 2%, 81%);
+}
+::placeholder {
+  color: hsl(0, 2%, 81%);
+}
+#hospitality {
+  accent-color: hsl(0, 0%, 47%);
+}
