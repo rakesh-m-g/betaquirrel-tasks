@@ -35,7 +35,7 @@ body {
   border-radius: 50%;
 }
 #sideBar {
-  height: calc(100vh - 21.4vh);
+  height: calc(100vh - 19vh);
   width: calc(100vw - 84vw);
   padding: 40px 25px;
   border-right: solid 2px;
@@ -78,4 +78,38 @@ th {
   table-layout: fixed;
   width: 90%;
   padding: 1em 2em 1em 2em;
+}
+@media screen and (max-width: 650px) {
+  #sideBar {
+    display: none;
+  }
+  #table table,
+  td,
+  th {
+    table-layout: auto;
+    width: 100vw;
+    padding: 6px;
+  }
+  #table {
+    display: grid;
+    align-items: start;
+    justify-content: center;
+    height: calc(auto);
+  }
+  #bodyTop {
+    padding: 0 1em 0 0.3em;
+  }
+}
+@media screen and (max-width: 900px) and (min-width: 651px) {
+  #table table,
+  td,
+  th {
+    table-layout: auto;
+  }
+  #table {
+    display: grid;
+  }
+  #bodyTop {
+    padding: 0 1em 0 0.3em;
+  }
 }

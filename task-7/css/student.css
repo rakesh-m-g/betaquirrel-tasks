@@ -124,3 +124,47 @@ textarea {
 #hospitality {
   accent-color: hsl(0, 0%, 47%);
 }
+@media screen and (max-width: 650px) {
+  #navigationBar {
+    height: calc(100vh - 92vh);
+  }
+  #logoDiv img {
+    height: calc(100vh - 94vh);
+    padding: 0.4em 0.4em 0.4em 1em;
+  }
+  #maindiv1 {
+    width: 100vw;
+  }
+  #maindiv2 {
+    width: 100vw;
+    margin: 30px 0 0 0px;
+  }
+  .form {
+    float: none;
+  }
+  .form1 {
+    float: none;
+  }
+  #submitp {
+    float: none;
+    margin-left: 1vw;
+  }
+  #submit,
+  #reset {
+    padding: 1em 4em 1em 4em;
+  }
+  #subjects {
+    width: 100vw;
+  }
+}
+@media screen and (max-width: 900px) and (min-width: 651px) {
+  #sideBar {
+    display: none;
+  }
+  #subjects {
+    width: 100vw;
+  }
+  #logoDiv img {
+    height: calc(100vh - 94vh);
+  }
+}
