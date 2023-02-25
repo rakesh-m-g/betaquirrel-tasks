@@ -95,6 +95,7 @@ th {
     align-items: start;
     justify-content: center;
     height: calc(auto);
+    width: 100vw;
   }
   #bodyTop {
     padding: 0 1em 0 0.3em;

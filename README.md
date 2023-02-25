@@ -14,9 +14,9 @@
 
 <br>
 
-| Requrements                     | Output                       |
-| ------------------------------- | ---------------------------- |
-| ![task 1](images/task-1req.png) | ![Task 1](images/task-1.png) |
+| Requrements                     | Output                  |
+| ------------------------------- | ----------------------- |
+| ![task 1](images/task-1req.png) | ![Task 1](images/m.png) |
 
 ### **Second task**
 
@@ -80,10 +80,14 @@
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
 
-\\
-
 ### **Task 6**
 
 - 👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)
+
+### **Task 7**
+
+| PC view indexpage                 | pc view student page                | index page mobile view          | student page mobile view          |
+| --------------------------------- | ----------------------------------- | ------------------------------- | --------------------------------- |
+| ![task 7](images/indexPagePc.png) | ![Task 7](images/studentpagePc.png) | ![task 1](images/indexPage.png) | ![Task 1](images/studentpage.png) |
 
 # ~~END~~
