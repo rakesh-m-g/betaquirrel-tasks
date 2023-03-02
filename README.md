@@ -90,4 +90,8 @@
 | --------------------------------- | ----------------------------------- | ------------------------------- | --------------------------------- |
 | ![task 7](images/indexPagePc.png) | ![Task 7](images/studentpagePc.png) | ![task 1](images/indexPage.png) | ![Task 1](images/studentpage.png) |
 
+###**Task 8**
+
+- 👉 new figma page[Click here](https://www.figma.com/proto/23Lt0RxK8bnmppv2t0aeGD/Untitled?page-id=149%3A812&node-id=149%3A2216&viewport=238%2C211%2C0.34&scaling=scale-down&starting-point-node-id=149%3A2216)
+
 # ~~END~~
