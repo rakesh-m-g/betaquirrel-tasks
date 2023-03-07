@@ -79,6 +79,10 @@ th {
   width: 90%;
   padding: 1em 2em 1em 2em;
 }
+i {
+  vertical-align: middle;
+  margin-right: 10px;
+}
 @media screen and (max-width: 650px) {
   #sideBar {
     display: none;

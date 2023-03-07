@@ -43,6 +43,13 @@ body {
   margin: 0px;
   float: left;
 }
+i {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+p {
+  color: #717171;
+}
 #maindiv1 {
   height: calc(100vh - 11.2vh);
   display: flex;
