@@ -1,0 +1,42 @@
+body {
+  background-color: #33ccff;
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  margin: 2px;
+  cursor: pointer;
+  background: #607d8b;
+  border: none;
+  color: white;
+}
+.textview {
+  width: 213px;
+  margin: 5px;
+  font-size: 25px;
+  padding: 5px;
+  border: none;
+  color: #607d8b;
+  border: 2px solid rgb(131, 131, 131);
+}
+.main {
+  background-color: aqua;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+h1 {
+  position: absolute;
+  top: 10%;
+  left: 42%;
+  font-size: 30px;
+}
+table {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+}
+img {
+}
