@@ -80,18 +80,26 @@
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
 
+
+
 ### **Task 6**
-
-- 👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)
-
-### **Task 7**
 
 | PC view indexpage                 | pc view student page                | index page mobile view          | student page mobile view          |
 | --------------------------------- | ----------------------------------- | ------------------------------- | --------------------------------- |
 | ![task 7](images/indexPagePc.png) | ![Task 7](images/studentpagePc.png) | ![task 1](images/indexPage.png) | ![Task 1](images/studentpage.png) |
 
-###**Task 8**
+###**Task 7**
 
 - 👉 new figma page[Click here](https://www.figma.com/proto/23Lt0RxK8bnmppv2t0aeGD/Untitled?page-id=149%3A812&node-id=149%3A2216&viewport=238%2C211%2C0.34&scaling=scale-down&starting-point-node-id=149%3A2216)
 
+###**Task 8**
+
+| calculater                   |
+| ---------------------------- |
+| ![task 8](images/calculator.png) |
+
+
+
+| 👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)  |
+|-----------------------------------------------------------------------------------|
 # ~~END~~
