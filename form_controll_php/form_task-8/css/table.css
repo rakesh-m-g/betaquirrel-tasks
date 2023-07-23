@@ -1,0 +1,97 @@
+body {
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+nav {
+  height: 68px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  border-bottom: #c4c4c4 solid 2px;
+}
+.left-nav {
+  height: 50px;
+  float: left;
+  display: flex;
+  background-color: #ffffff;
+  align-self: center;
+}
+.left-nav img {
+  height: 40px;
+  width: 30px;
+  align-self: center;
+}
+.left-nav h2 {
+  color: #5e5e5e;
+  padding: 0 8px;
+  align-self: center;
+}
+.right-nav {
+  float: right;
+  align-self: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.right-nav img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  float: right;
+  justify-content: space-between;
+}
+.side-container {
+  background-color: #ffffff;
+  height: 110vh;
+  width: calc(13%);
+  padding: 10px;
+  float: left;
+  border-right: #c4c4c4 solid 2px;
+}
+li {
+  padding-left: 30px;
+  padding-bottom: 0px;
+  color: #55533a;
+}
+ul {
+  padding: 0;
+}
+a {
+  color: #5e5e5e;
+}
+.student {
+  float: left;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-top: 25px;
+  width: 83%;
+
+  margin-bottom: 15px;
+  text-decoration: underline;
+  color: #55533a;
+}
+.right-form {
+  float: left;
+  width: 58%;
+  margin-left: 30px;
+}
+.btn {
+  margin-left: 10px;
+  float: right;
+  width: auto;
+}
+tr,
+td,
+th {
+  border: 1px solid #e6e6e6;
+  tab-size: 5px;
+  text-align: center;
+  padding: 10px;
+}
+table {
+  align-self: auto;
+  width: auto;
+  margin-left: auto;
+
+  border-collapse: collapse;
+}
