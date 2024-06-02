@@ -102,7 +102,9 @@
 | ![task 8](images/calculator.png) |
 
 ###**UDEMY**
+
 |          preview image          |
+|---------------------------------|
 | ![usemy](images/udemy_first.png)|
 |---------------------------------|
 
