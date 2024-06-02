@@ -1,6 +1,9 @@
 # betaquirrel-tasks
 
 ## Betasquirrel assignments
+| 👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)  |
+|-----------------------------------------------------------------------------------|
+
 
 <img src="images/stack-overflow logo.png" height="50px" > [Click here 📙](https://stackoverflow.com/users/21194129/dote)
 
@@ -98,8 +101,9 @@
 | ---------------------------- |
 | ![task 8](images/calculator.png) |
 
+###**UDEMY**
+|          preview image          |
+| ![usemy](images/udemy_first.png)|
+|---------------------------------|
 
-
-| 👉 This is new page[Click here](https://rakesh-m-g.github.io/betaquirrel-tasks/)  |
-|-----------------------------------------------------------------------------------|
 # ~~END~~
